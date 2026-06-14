@@ -6,9 +6,10 @@ Structural Analysis in Python
 Features
 - Beam analysis
 - Reaction calculation
-
-Future Improvements
+- First code using Opensees
 - Shear force diagram
 - Bending moment diagram
+
+Future Improvements
 - Frame analysis
 - Truss analysis
