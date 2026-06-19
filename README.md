@@ -9,7 +9,8 @@ Features
 - First code using Opensees
 - Shear force diagram
 - Bending moment diagram
+- Truss analysis
 
 Future Improvements
 - Frame analysis
-- Truss analysis
+
