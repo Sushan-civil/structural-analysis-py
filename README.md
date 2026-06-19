@@ -4,13 +4,13 @@
 
 ## Features
 
-  * Beam analysis with complex loads (including triangular and hydrostatic distributions)
+  * Beam and column analysis with complex loads 
   * Calculation of support reactions for static systems
   * First implementation of finite element analysis using OpenSees
-  * Generation of clean Shear Force Diagrams (SFD)
-  * Generation of clean Bending Moment Diagrams (BMD)
+  * Generation of Shear Force Diagrams (SFD)
+  * Generation of Bending Moment Diagrams (BMD)
   * Two-dimensional Truss Analysis using the Direct Stiffness Method
 
 ## Future Improvements
 
-  *Two-dimensional and three-dimensional Frame Analysis
+  * Two-dimensional and three-dimensional Frame Analysis
