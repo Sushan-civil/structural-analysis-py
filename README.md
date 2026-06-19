@@ -1,16 +1,20 @@
 # structural-analysis-py
-my first code for beam analysis with a triangular load, to calculate Shear force, Bending Moment and Deflection of a Beam
 
-Structural Analysis in Python
+##A collection of python scripts for structural engineering analysis, including beam deflection, internal force calculation, and finite element modeling using OpenSees.
 
-Features
-- Beam analysis
-- Reaction calculation
-- First code using Opensees
-- Shear force diagram
-- Bending moment diagram
-- Truss analysis
+##Features
 
-Future Improvements
-- Frame analysis
+  Beam analysis with complex loads (including triangular and hydrostatic distributions)
 
+  Calculation of support reactions for static systems
+
+  First implementation of finite element analysis using OpenSees
+
+  Generation of clean Shear Force Diagrams (SFD)
+
+  Generation of clean Bending Moment Diagrams (BMD)
+  Two-dimensional Truss Analysis using the Direct Stiffness Method
+
+##Future Improvements
+
+  Two-dimensional and three-dimensional Frame Analysis
